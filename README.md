@@ -15,4 +15,4 @@ This project utilizes `pipenv`, the package manager. Open a terminal in the proj
 3. Install all packages from pipfile to the virtual environment
 `pipenv install`
 
- Simply type `python main.py` to execute the program.
+ Type `python main.py` to execute the program.
